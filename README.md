@@ -64,7 +64,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ![image](https://user-images.githubusercontent.com/36288975/233856847-32bea88a-565f-4e01-9c7e-4f7ed546ddf6.png)
 
 14. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
-https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
+![Screenshot 2023-04-25 at 11-26-49 26 png (PNG Image 519 × 411 pixels)](https://user-images.githubusercontent.com/118343461/234187164-5812a799-cb39-4dcc-8552-46971825904b.png)
+
 
 15. click on debug and simulate using simulation as shown below 
 
@@ -164,6 +165,8 @@ reg no : 212222240108
 ```
 ## Output screen shots of proteus  :
 ![Screenshot 2023-04-25 at 11-17-01 Yuvaranithulasingam_EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-](https://user-images.githubusercontent.com/118343461/234186576-d8c10a74-8fb4-4d8d-b4e0-d18f5edd38e9.png)
+
+
 ![Screenshot 2023-04-25 at 11-22-55 Yuvaranithulasingam_EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-](https://user-images.githubusercontent.com/118343461/234186601-ab8cb523-7bfe-491c-bc26-cbb578be3572.png)
 
 ## Result :
