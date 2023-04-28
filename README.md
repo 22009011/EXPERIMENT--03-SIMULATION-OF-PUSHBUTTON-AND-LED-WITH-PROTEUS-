@@ -105,10 +105,10 @@ reg no : 212222240108
 ```
 ## Output screen shots of proteus  :
 ## BUTTON ON LED ON CONDITION :
-![Screenshot 2023-04-25 at 11-17-01 Yuvaranithulasingam_EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-](https://user-images.githubusercontent.com/118343461/234186576-d8c10a74-8fb4-4d8d-b4e0-d18f5edd38e9.png)
+![image](https://user-images.githubusercontent.com/118343461/235044128-fbd038d2-b081-47f1-aae5-06b1674793a9.png)
 
 ## BUTTON OFF LED OFF CONDITION :
-![Screenshot 2023-04-25 at 11-22-55 Yuvaranithulasingam_EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-](https://user-images.githubusercontent.com/118343461/234186601-ab8cb523-7bfe-491c-bc26-cbb578be3572.png)
+![image](https://user-images.githubusercontent.com/118343461/235045094-0b8ad2e6-a9a5-4822-afbd-74be1a695251.png)
 
 ## Proteus layout(Add pdf screen shot of circuit here) :
 ![image](https://user-images.githubusercontent.com/118343461/235043857-1e103c88-ac3c-4b0e-9e3c-8596c8f204cf.png)
