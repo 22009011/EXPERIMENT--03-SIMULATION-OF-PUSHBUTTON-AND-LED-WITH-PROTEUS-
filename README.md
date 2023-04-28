@@ -110,7 +110,8 @@ reg no : 212222240108
 ## BUTTON OFF LED OFF CONDITION :
 ![Screenshot 2023-04-25 at 11-22-55 Yuvaranithulasingam_EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-](https://user-images.githubusercontent.com/118343461/234186601-ab8cb523-7bfe-491c-bc26-cbb578be3572.png)
 
-## Proteus layout(Add pdf screen shot of circuit here)
+## Proteus layout(Add pdf screen shot of circuit here) :
+![image](https://user-images.githubusercontent.com/118343461/235043857-1e103c88-ac3c-4b0e-9e3c-8596c8f204cf.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
